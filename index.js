@@ -20,8 +20,7 @@ app.use("/query",(req,res,next) => {
     next();
 });
 
-app.use("/static", express.static(__dirname + '/views'));
-
+app.use(express.static(__dirname + '/views'));
 app.get('/hello',(req,res) => {
     res.send('Hello World');
 });
