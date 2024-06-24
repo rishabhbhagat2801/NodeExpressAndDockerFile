@@ -1,0 +1,12 @@
+{
+  "name": "nodeexpressanddockerfile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rishabh Vinay Bhagat - C0892204",
+  "license": "ISC",
+  "description": "Creating Docker Image using Docker File | Assignment - 3 | Part - 2"
+}
